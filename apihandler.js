@@ -20,7 +20,7 @@ var result_unsucess = {
 
  var data = {
                 "data":{}
-            }[
+            };
                     
 //Get api with Params
 
